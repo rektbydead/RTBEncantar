@@ -1,0 +1,7 @@
+name: RBD-Encantar
+main: pt.rektbydead.encantar.Main
+version: 0
+commands:
+    givelivros:
+        aliases: [enc]
+        permission: encantar.usar
